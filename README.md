@@ -14,5 +14,5 @@ py main.py
 ## Socials
 
 - [@thefzmoon](https://www.github.com/thefzmoon)
-- [Join The Discord](discord.gg/9PMVaBf3mS)
+- [Join The Discord](https://discord.gg/9PMVaBf3mS)
 
